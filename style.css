@@ -1,0 +1,19 @@
+body {
+    font-family: cursive;
+    color: purple;
+}
+
+p{
+    border: solid 20px green;
+    padding: 10px;
+}
+
+body{
+    background-image: linear-gradient(to right, yellow, orange);
+}
+
+img{
+    border: solid 20px purple;
+    width: 500px;
+    height: 300px;
+}
